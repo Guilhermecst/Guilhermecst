@@ -1,13 +1,11 @@
-## Hello, I'm Guilherme 👋🏻
+# Hello, I'm Guilherme 👋🏻
 
-### About me 🧑🏻‍💻
+## About me 🧑🏻‍💻
 - 🌎 Living in Brazil
 - 🎂 20 years old
 - 🌱 I’m currently learning Python, Java and Kotlin
 - 🎓 I’m currently a student at <a href=“https://www.impacta.com.br/“>Impacta</a> University
 - 🗺️ Looking for my first opportunity in the technology market
-
-##
 
 ## 📈 My GitHub Stats
 
@@ -17,8 +15,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermecst&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  ##
-  
   ## 🛠️ Tech Stach
   
 <div style="display: inline_block"><br>
@@ -27,9 +23,8 @@
   <img align="center" alt="Kotlin" height="28" width="88.25" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="HTML" height="28" width="94.5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="28" width="77" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-  ##
+  <img align="center" alt="SQL-Server" height="28" width="134.5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" alt="AWS" height="28" width="209" src="	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   
   ## 🤝🏻 Connect with me!
   
