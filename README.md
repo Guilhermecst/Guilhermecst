@@ -4,10 +4,12 @@
 - 🌎 Living in Brazil
 - 🎂 20 years old
 - 🌱 I’m currently learning Python, Java and Kotlin
-- 🎓 I’m currently an student at <a href=“https://www.impacta.com.br/“>Impacta</a> University
+- 🎓 I’m currently a student at <a href=“https://www.impacta.com.br/“>Impacta</a> University
 - 🗺️ Looking for my first opportunity in the technology market
 
 ##
+
+## 📈 My GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Guilhermecst">
@@ -16,6 +18,8 @@
 </div>
   
   ##
+  
+  ## 🛠️ Tech Stach
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="28" width="97.5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,6 +30,8 @@
 </div>
 
   ##
+  
+  ## 🤝🏻 Connect with me!
   
   <div>
   <a href="https://www.instagram.com/guilherme.cst_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
