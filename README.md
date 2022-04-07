@@ -2,7 +2,7 @@
 
 ### About me 🧑🏻‍💻
 - 🌎 Living in Brazil
-- 🌱 I’m currently learning Java, Python and Kotlin
+- 🌱 I’m currently learning Python, Java and Kotlin
 - 🎓 I’m currently an student at <a href=“https://www.impacta.com.br/“>Impacta</a> University
 
 ##
