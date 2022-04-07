@@ -2,8 +2,10 @@
 
 ### About me 🧑🏻‍💻
 - 🌎 Living in Brazil
+- 🎂 20 years old
 - 🌱 I’m currently learning Python, Java and Kotlin
 - 🎓 I’m currently an student at <a href=“https://www.impacta.com.br/“>Impacta</a> University
+- 🗺️ Looking for my first opportunity in the technology market
 
 ##
 
