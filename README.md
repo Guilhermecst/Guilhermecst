@@ -4,7 +4,7 @@
 - 🌎 Living in Brazil
 - 🎂 20 years old
 - 🌱 I’m currently learning Python, Java and Kotlin
-- 🎓 I’m currently a student at <a href=“https://www.impacta.com.br/“>Impacta</a> University
+- 🎓 I’m currently a student at <a href="https://www.impacta.com.br">Impacta</a> University
 - 🗺️ Looking for my first opportunity in the technology market
 
 ## 📈 My GitHub Stats
