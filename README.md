@@ -5,7 +5,7 @@
 - 🎂 20 years old
 - 🌱 I’m currently learning Python and Flask
 - 🎓 I’m currently a Systems Analysis and Development student at <a href="https://www.impacta.com.br">Impacta</a> University
-- 💼 I’m currently an intern at <a href="https://www.assesso.com.br">Asseso</a>
+- 💼 I’m currently an intern at <a href="https://www.assesso.com.br">Assesso</a>
 
 ## 📈 My GitHub Stats
 
