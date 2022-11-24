@@ -3,9 +3,9 @@
 ## About me 🧑🏻‍💻
 - 🌎 Living in Brazil
 - 🎂 20 years old
-- 🌱 I’m currently learning Python, Java and Kotlin
+- 🌱 I’m currently learning Python and Flask
 - 🎓 I’m currently a Systems Analysis and Development student at <a href="https://www.impacta.com.br">Impacta</a> University
-- 🗺️ Looking for my first opportunity in the technology market
+- 💼 I’m currently an intern at <a href="https://www.assesso.com.br">Asseso</a>
 
 ## 📈 My GitHub Stats
 
