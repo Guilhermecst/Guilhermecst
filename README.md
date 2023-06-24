@@ -4,7 +4,7 @@
 - 🌎 Living in Brazil
 - 🎂 21 years old
 - 🎓 I’m a Systems Analysis and Development graduate at <a href="https://www.impacta.com.br">Faculdade Impacta Tecnologia</a>
-- 💼 I’m currently an intern at <a href="https://www.assesso.com.br">Assesso</a>
+- 💼 I’m currently an Data Analist at <a href="https://www.assesso.com.br">Assesso</a>
 
 ## 📈 My GitHub Stats
 
