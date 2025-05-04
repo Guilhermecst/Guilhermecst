@@ -3,7 +3,7 @@
 ## About me 🧑🏻‍💻
 - 🌎 Living in Brazil
 - 🎂 23 years old
-- 🎓 I’m a Data Analytics student at <a href="https://www.fiap.com.br">Faculdade Impacta Tecnologia</a>
+- 🎓 I’m a Data Analytics student at <a href="https://www.fiap.com.br">FIAP</a>
 - 💼 I’m currently an Data Analist at <a href="https://www.assesso.com.br">Assesso</a>
 
 ## 📈 My GitHub Stats
