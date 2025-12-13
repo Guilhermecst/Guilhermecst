@@ -52,8 +52,8 @@ Adoro discutir sobre performance de dados, novas técnicas de scraping e os desa
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([COLE SEU LINKEDIN AQUI]) |
-| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU EMAIL AQUI]) |
-| **Currículo/CV** | [![Portfolio](https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logo=github&logoColor=white)]([COLE O LINK PARA SEU CV/PORTFÓLIO AQUI]) |
+| **LinkedIn** | [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/silva-guilherme-costa/))] |
+| **Email** | [![Gmail](silva.guilherecst@gmail.com)] |
+| **Currículo/CV** | [![Portfolio]([https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logo=github&logoColor=white](https://drive.google.com/file/d/1bDgIvMnWMegyM0XSuWZsNRfuAn6wM3qZ/view?usp=drive_link))] |
 
 ---
