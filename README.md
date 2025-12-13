@@ -1,100 +1,98 @@
-# 👋 Olá, eu sou o Guilherme Costa Silva  
+# 📊 Guilherme Costa Silva | Data Analytics Portfolio
 
-🎯 **Analista de Dados** com mais de **3 anos de experiência**, apaixonado por transformar dados em informação estratégica e gerar impacto real através de análises bem estruturadas.
+Transformando **dados brutos** em **insights acionáveis** com Python, BI e Machine Learning.
 
-Atuo com **extração, tratamento, modelagem e visualização de dados**, participando de projetos para grandes empresas como **Natura, Claro, Banco BMG e Descomplica**.  
-Atualmente sou **pós-graduando em Data Analytics pela FIAP** e sigo aprofundando meus estudos em **Machine Learning, Engenharia de Dados e Analytics**.
-
----
-
-## 🚀 Sobre mim
-
-- 📊 Experiência sólida com dados em ambientes corporativos  
-- 🧠 Forte atuação em **qualidade de dados** e **Master Data Management (MDM)**  
-- ⚙️ Automação de processos com **Python, Shell e Spark**  
-- 📈 Criação de **dashboards analíticos e interativos** para tomada de decisão  
-- 🌎 Disponível para oportunidades **nacionais e internacionais**
+> Aqui você encontra projetos práticos de análise de dados, visualização e modelos preditivos  
+> desenvolvidos com dados reais e foco em problemas do mundo real.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Projetos em Destaque
 
-### 💻 Linguagens & Análise
-- **Python (Avançado)**  
-  - Pandas, Estatística, Machine Learning, Web Scraping  
-  - Visualização de dados  
-- **SQL (Intermediário)**  
-  - MySQL, Oracle, SQL Server  
+### 🏈 NFL Analytics — Temporada Regular 2024
+📌 **Análise completa de desempenho ofensivo e defensivo da NFL**
 
-### ☁️ Dados & Plataformas
-- **Databricks** (Spark, Delta)  
-- **AWS** (Glue, fundamentos de Cloud)  
-- **Shell Linux** (automação de rotinas)
+🛠️ Ferramentas: `Python` · `Pandas` · `Web Scraping` · `Power BI`
 
-### 📊 BI & Visualização
-- **Power BI (Avançado)**  
-  - DAX  
-  - Power Query  
-  - Modelagem de Dados  
+🔍 O que foi feito:
+- Coleta automatizada de dados no site oficial da NFL  
+- Tratamento e padronização das estatísticas por time  
+- Criação de métricas ofensivas, defensivas e de eficiência  
+- Dashboard interativo com filtros por time e comparação de desempenho  
+
+🔗 **Dashboard interativo:**  
+👉 https://app.powerbi.com/view?r=eyJrIjoiNzIzNjg0ZGEtNmQ1YS00MmMzLTk5OTYtMTkyYjY0ZjY0ZWQ0IiwidCI6IjkwNGE2YjkzLTk1YjEtNDE0Yy1iNTgxLTEwZmIyOWRkYzRmNyJ9
 
 ---
 
-## 📌 Projetos em Destaque
+### 🍷 Exportações de Vinho Brasileiro — Análise Exploratória (EDA)
+📌 **Como fatores econômicos, climáticos e geográficos influenciam a exportação de vinhos**
 
-### 🏈 Análise de Dados – NFL 2024  
-Projeto que une **esporte e dados**.  
-- Web scraping no site oficial da NFL  
-- Tratamento e análise com Python e Pandas  
-- Dashboards interativos no Power BI  
+🛠️ Ferramentas: `Python` · `Pandas` · `Visualização de Dados` · `Estatística`
 
-🔗 [Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzIzNjg0ZGEtNmQ1YS00MmMzLTk5OTYtMTkyYjY0ZjY0ZWQ0IiwidCI6IjkwNGE2YjkzLTk1YjEtNDE0Yy1iNTgxLTEwZmIyOWRkYzRmNyJ9)
+🔍 O que foi explorado:
+- Evolução das exportações ao longo do tempo  
+- Principais países de destino  
+- Relação entre clima, economia e volume exportado  
+- Identificação de padrões sazonais e oportunidades de mercado  
 
----
-
-### 🍷 Exportações de Vinho Brasileiro – EDA  
-Análise exploratória combinando dados de exportação, economia, clima e geografia.  
-- Identificação de padrões sazonais  
-- Impactos climáticos na produção  
-- Oportunidades de mercado  
-
-🔗 [Ver projeto no GitHub](https://github.com/Guilhermecst/Exportacoes-de-Vinho-EDA)
+🔗 **Repositório:**  
+👉 https://github.com/Guilhermecst/Exportacoes-de-Vinho-EDA
 
 ---
 
-### 📉 Previsão do Fechamento do IBOVESPA (Machine Learning)  
-Modelo de **classificação binária** para prever se o índice fechará em alta ou baixa.  
-- Criação de variáveis derivadas (lags, médias móveis, variações)  
-- Testes com diferentes algoritmos  
-- Melhor resultado com **Regressão Logística**  
-- Pipeline automatizado para previsões diárias  
+### 📉 Previsão do Fechamento do IBOVESPA (Machine Learning)
+📌 **Modelo preditivo para identificar se o índice fechará em alta ou baixa**
 
-🔗 [Ver projeto no GitHub](https://github.com/Guilhermecst/Fechamento-Ibovespa-ML)
+🛠️ Ferramentas: `Python` · `Pandas` · `Machine Learning`
 
----
+🔍 Pipeline do projeto:
+- Coleta e limpeza de dados históricos  
+- Engenharia de features (lags, médias móveis, variações)  
+- Teste de múltiplos algoritmos  
+- Melhor desempenho com **Regressão Logística**  
+- Scripts automatizados para previsão diária  
 
-### 🦠 Impactos da Pandemia de Covid-19  
-Análise de mais de **1,1 milhão de entrevistas** sobre impactos sociais, econômicos e comportamentais.  
-- Processamento com **AWS Glue**  
-- Visualizações e análises no **Power BI**  
-- Geração de insights e recomendações para políticas públicas  
-
-🔗 [Ver relatório](https://drive.google.com/file/d/1Os7e4xOleXQYh1Q-8fq10BZTwUNfgcOV/view)
+🔗 **Repositório:**  
+👉 https://github.com/Guilhermecst/Fechamento-Ibovespa-ML
 
 ---
 
-## 🎓 Formação
+### 🦠 Impactos da Pandemia de Covid-19
+📌 **Análise social, econômica e comportamental baseada em +1,1 milhão de entrevistas**
 
-- 🎓 **Pós-graduação em Data Analytics** — FIAP *(em andamento)*  
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Faculdade Impacta  
+🛠️ Ferramentas: `AWS Glue` · `Power BI`
+
+🔍 Principais análises:
+- Relação entre contaminação e afastamento do trabalho  
+- Impactos socioeconômicos por grupo populacional  
+- Identificação de populações mais vulneráveis  
+- Geração de insights para políticas públicas  
+
+🔗 **Relatório:**  
+👉 https://drive.google.com/file/d/1Os7e4xOleXQYh1Q-8fq10BZTwUNfgcOV/view
 
 ---
 
-## 🌐 Onde me encontrar
+## 🧰 Stack mais utilizada nos projetos
 
-- 💼 LinkedIn: [linkedin.com/in/silva-guilherme-costa](https://linkedin.com/in/silva-guilherme-costa)  
-- 🐙 GitHub: [github.com/Guilhermecst](https://github.com/Guilhermecst)  
-- 📧 Email: **silva.guilhermecst@gmail.com**
+**Python** · Pandas · Machine Learning · Web Scraping  
+**Power BI** · DAX · Modelagem de Dados  
+**SQL** · MySQL · Oracle · SQL Server  
+**Databricks / Spark** · **AWS** · **Shell Linux**
 
 ---
 
-⭐ Se algum projeto te ajudou ou chamou atenção, fique à vontade para deixar uma estrela!
+## 📌 O que você vai encontrar neste GitHub
+✔️ Projetos com dados reais  
+✔️ Análises completas (do dado bruto ao insight)  
+✔️ Código organizado e reproduzível  
+✔️ Foco em qualidade de dados e tomada de decisão  
+
+---
+
+## 🌎 Contato
+💼 LinkedIn: https://linkedin.com/in/silva-guilherme-costa  
+📧 Email: silva.guilhermecst@gmail.com  
+
+⭐ Curtiu algum projeto? Fique à vontade para deixar uma estrela!
