@@ -1,4 +1,4 @@
-# 💡 GUILHERME COSTA SILVA | DATA DRIVEN DECISIONS
+# 💡 GUILHERME COSTA SILVA | DATA ANALYST
 
 > Analista de Dados focado em **extração de valor, otimização de performance e construção de modelos preditivos**. 
 > 
