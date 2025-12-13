@@ -20,7 +20,7 @@ Estas são as principais ferramentas e técnicas que utilizo no meu dia a dia pa
 | :--- | :--- |
 | **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Web Scraping/ETL** | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-1E88E5?style=for-the-badge&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-green?style=for-the-badge) ![ETL](https://img.shields.io/badge/Processo-ETL-darkgreen?style=for-the-badge) |
-| **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=for-the-badge) (Star Schema) |
+| **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=for-the-badge) |
 | **Versionamento** | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
@@ -52,8 +52,10 @@ Adoro discutir sobre performance de dados, novas técnicas de scraping e os desa
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/silva-guilherme-costa/))] |
-| **Email** | [![Gmail](silva.guilherecst@gmail.com)] |
-| **Currículo/CV** | [![Portfolio]([https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logo=github&logoColor=white](https://drive.google.com/file/d/1bDgIvMnWMegyM0XSuWZsNRfuAn6wM3qZ/view?usp=drive_link))] |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/silva-guilherme-costa/]) |
+| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[silva.guilhermecst@gmail.com]) |
+| **Currículo/CV** | [![Portfolio](https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logo=github&logoColor=white)]([https://drive.google.com/file/d/1bDgIvMnWMegyM0XSuWZsNRfuAn6wM3qZ/view?usp=drive_link]) |
+
+---
 
 ---
