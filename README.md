@@ -2,7 +2,7 @@
 
 ## About me 🧑🏻‍💻
 - 🌎 Living in Brazil
-- 🎂 23 years old
+- 🎂 24 years old
 - 🎓 I’m a Data Analytics student at <a href="https://www.fiap.com.br">FIAP</a>
 - 💼 I’m currently an Data Analyst at <a href="https://www.assesso.com.br">Assesso</a>
   
