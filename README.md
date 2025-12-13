@@ -1,7 +1,7 @@
 # 🌟 Olá! Eu sou Guilherme Costa, Engenheiro(a) de Dados & Desenvolvedor(a) de BI
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ0dTh1Z3gzYzV1b203aGZlYnV5N2k3NGt3MnE5ZTh3OG00NTR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYXR0ZnM9JmN0PWc/26tn33aiTi1tql6yQ/giphy.gif" alt="Gráfico animado de análise de dados" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4dDhwYmNvdWhhM3IxcTh6MnNmb3V1d29vdmJ2dGdncjJ3ZzJjMiZlcD12MV9pbnRlcm5hbF9naWZfYXR0ZnM9JmN0PWc/3o7buhB4k80gGzK7qg/giphy.gif" alt="Gráfico animado" width="200" />
 </div>
 
 > Transformando dados brutos em inteligência acionável. Especialista na construção de pipelines ETL robustos e na criação de Dashboards dinâmicos para suportar a tomada de decisões estratégicas.
@@ -18,7 +18,7 @@ Estas são as principais ferramentas e técnicas que utilizo no meu dia a dia pa
 
 | Categoria | Ferramentas |
 | :--- | :--- |
-| **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://imgshields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Web Scraping/ETL** | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-1E88E5?style=for-the-badge&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-green?style=for-the-badge) ![ETL](https://img.shields.io/badge/Processo-ETL-darkgreen?style=for-the-badge) |
 | **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=for-the-badge) (Star Schema) |
 | **Versionamento** | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
@@ -42,6 +42,18 @@ Meus projetos refletem o ciclo completo da análise de dados: da coleta à visua
 * **Descrição:** Breve descrição do seu terceiro projeto mais importante.
 * **Habilidades Demonstradas:** (Ex: Banco de Dados Específico, Otimização de Queries, etc.).
 
+*(Lembre-se de substituir os placeholders acima pelos seus projetos reais!)*
+
 ---
 
-## 🤝 Conect
+## 🤝 Conecte-se Comigo
+
+Adoro discutir sobre performance de dados, novas técnicas de scraping e os desafios da modelagem de dados. Sinta-se à vontade para entrar em contato!
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([COLE SEU LINKEDIN AQUI]) |
+| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU EMAIL AQUI]) |
+| **Currículo/CV** | [![Portfolio](https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logo=github&logoColor=white)]([COLE O LINK PARA SEU CV/PORTFÓLIO AQUI]) |
+
+---
