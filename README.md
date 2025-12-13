@@ -1,64 +1,100 @@
-# Olá! Eu sou o Guilherme Costa Silva 👋
+# 👋 Olá, eu sou o Guilherme Costa Silva  
 
-### Analista de Dados | Apaixonado por transformar dados em decisões estratégicas.
+🎯 **Analista de Dados** com mais de **3 anos de experiência**, apaixonado por transformar dados em informação estratégica e gerar impacto real através de análises bem estruturadas.
 
-[cite_start]Sou um **Analista de Dados** com mais de 3 anos de sólida experiência em extração, tratamento, consolidação e visualização de dados em ambientes corporativos[cite: 6]. [cite_start]Minha missão é garantir a qualidade da informação e gerar *insights* acionáveis para grandes empresas, como as que já atuei: Natura, Descomplica, Claro e Banco BMG[cite: 7, 8].
-
-[cite_start]Atualmente, sou **Analista de Dados na Assesso Informática** [cite: 11, 12] [cite_start]e estou aprimorando minhas habilidades como pós-graduando em **Data Analytics** pela FIAP (previsão de término em JAN/2026)[cite: 9, 21].
-
----
-
-## 🛠️ Stack de Habilidades (Onde eu Gosto de Trabalhar)
-
-Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia e em meus projetos pessoais:
-
-| Categoria | Habilidades em Destaque | Nível/Ferramentas |
-| :--- | :--- | :--- |
-| **Linguagens** | Python, SQL, Shell Linux | [cite_start]Python Avançado [cite: 25][cite_start], SQL Intermediário (MySQL, Oracle, SQL Server) [cite: 32, 33, 35, 36][cite_start], Shell Linux Intermediário [cite: 43] |
-| **BI & Visualização** | Power BI, Modelagem, DAX/Power Query | [cite_start]Power BI Avançado [cite: 39][cite_start], Modelagem de Dados [cite: 42][cite_start], Visualização de dados [cite: 27] |
-| **Big Data & Cloud** | Spark, Databricks, AWS | [cite_start]Spark [cite: 31][cite_start], Databricks Básico [cite: 38][cite_start], AWS Básico [cite: 45] |
-| **Estatística & ML** | Machine Learning, Estatística | [cite_start]Machine Learning [cite: 30][cite_start], Estatística [cite: 29] |
+Atuo com **extração, tratamento, modelagem e visualização de dados**, participando de projetos para grandes empresas como **Natura, Claro, Banco BMG e Descomplica**.  
+Atualmente sou **pós-graduando em Data Analytics pela FIAP** e sigo aprofundando meus estudos em **Machine Learning, Engenharia de Dados e Analytics**.
 
 ---
 
-## 🏆 Projetos em Destaque (Portfólio no GitHub)
+## 🚀 Sobre mim
 
-Meus projetos pessoais unem paixão e técnica, demonstrando minha aplicação prática de habilidades de Data Science e BI.
-
-### 1. Previsão do Fechamento da Bolsa de Valores (IBOVESPA) - Machine Learning
-* [cite_start]**Descrição:** Desenvolvimento de um modelo de classificação binária para prever se o IBOVESPA fechará em alta ou baixa no dia seguinte, usando dados históricos[cite: 81, 82].
-* [cite_start]**Técnicas:** Tratamento de dados com Pandas (criação de *lags*, médias móveis), Regressão Logística (melhor desempenho)[cite: 83, 84].
-* [cite_start]**Repositório:** [github.com/Guilhermecst/Fechamento-Ibovespa-ML/](https://github.com/Guilhermecst/Fechamento-Ibovespa-ML/) [cite: 85]
-
-### 2. Análise de Dados: Temporada Regular da NFL de 2024
-* **Descrição:** União da paixão por esporte com análise de dados. [cite_start]Usei **Web Scraping** em Python para coleta e tratamento (Pandas), culminando em dashboards interativos no Power BI[cite: 72, 73].
-* [cite_start]**Resultados:** As visualizações permitem explorar o desempenho ofensivo e defensivo, com foco em métricas de passe, corrida e eficiência geral[cite: 74].
-* [cite_start]**Dashboard:** [Dashboard Interativo (Power BI)](https://app.powerbi.com/view?r=eyJrljoiNzIzNjg0ZGEtNmQ1YS00MmMzLTk5OTYtMTkyYjYOZjYOZWQOI iwidCI6IjkwNGE2YjkzLTk1YjEtNDE0Yy1iNTgxLTEwZmlyOWRkYzRmNyJ9) [cite: 76]
-
-### 3. Impactos da Pandemia de Covid-19 (Análise Socioeconômica)
-* [cite_start]**Descrição:** Análise de dados robusta sobre os impactos sociais, econômicos e comportamentais da pandemia, utilizando uma base com mais de 1.1 milhão de entrevistas[cite: 86, 87].
-* [cite_start]**Processo:** Extração e tratamento de dados via **AWS Glue**, seguido pela criação de um relatório em **Power BI** para visualização e identificação de grupos vulneráveis[cite: 88, 89].
-* [cite_start]**Relatório:** [Relatório em Google Drive](https://drive.google.com/file/d/1Os7e4xOleXQYh1Q-8fq10BZTwUNfgcOV/view?usp=sharing) [cite: 91]
-
-### 4. Relatório Analítico: Exportações de Vinho Brasileiro e Fatores Associados (EDA)
-* [cite_start]**Descrição:** Projeto de Análise Exploratória de Dados (EDA) utilizando dados reais de exportações, combinando indicadores econômicos, climáticos e geográficos[cite: 77, 78].
-* [cite_start]**Foco:** Identificação de padrões sazonais, impactos climáticos na produção e oportunidades de mercado[cite: 79].
-* [cite_start]**Repositório:** [github.com/Guilhermecst/Exportacoes-de-Vinho-EDA/](https://github.com/Guilhermecst/Exportacoes-de-Vinho-EDA/) [cite: 80]
+- 📊 Experiência sólida com dados em ambientes corporativos  
+- 🧠 Forte atuação em **qualidade de dados** e **Master Data Management (MDM)**  
+- ⚙️ Automação de processos com **Python, Shell e Spark**  
+- 📈 Criação de **dashboards analíticos e interativos** para tomada de decisão  
+- 🌎 Disponível para oportunidades **nacionais e internacionais**
 
 ---
 
-## 📚 Educação e Formação
+## 🛠️ Tecnologias & Ferramentas
 
-* [cite_start]**Pós-graduação em Data Analytics** - FIAP (Cursando) [cite: 21]
-* [cite_start]**Tecnólogo em Análise e Desenvolvimento de Sistemas** - Faculdade Impacta Tecnologia [cite: 23]
-* [cite_start]**Cursos de Destaque:** Formação Python para Data Science (Alura, 69h) [cite: 62][cite_start], Business Intelligence (FIAP, 60h)[cite: 59].
+### 💻 Linguagens & Análise
+- **Python (Avançado)**  
+  - Pandas, Estatística, Machine Learning, Web Scraping  
+  - Visualização de dados  
+- **SQL (Intermediário)**  
+  - MySQL, Oracle, SQL Server  
+
+### ☁️ Dados & Plataformas
+- **Databricks** (Spark, Delta)  
+- **AWS** (Glue, fundamentos de Cloud)  
+- **Shell Linux** (automação de rotinas)
+
+### 📊 BI & Visualização
+- **Power BI (Avançado)**  
+  - DAX  
+  - Power Query  
+  - Modelagem de Dados  
 
 ---
 
-## 📞 Conecte-se Comigo
+## 📌 Projetos em Destaque
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [cite_start][linkedin.com/in/silva-guilherme-costa/](https://linkedin.com/in/silva-guilherme-costa/) [cite: 4] |
-| **GitHub** | [cite_start][github.com/Guilhermecst](https://github.com/Guilhermecst) [cite: 4] |
-| [cite_start]**Email** | silva.guilhermecst@gmail.com [cite: 3] |
+### 🏈 Análise de Dados – NFL 2024  
+Projeto que une **esporte e dados**.  
+- Web scraping no site oficial da NFL  
+- Tratamento e análise com Python e Pandas  
+- Dashboards interativos no Power BI  
+
+🔗 [Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzIzNjg0ZGEtNmQ1YS00MmMzLTk5OTYtMTkyYjY0ZjY0ZWQ0IiwidCI6IjkwNGE2YjkzLTk1YjEtNDE0Yy1iNTgxLTEwZmIyOWRkYzRmNyJ9)
+
+---
+
+### 🍷 Exportações de Vinho Brasileiro – EDA  
+Análise exploratória combinando dados de exportação, economia, clima e geografia.  
+- Identificação de padrões sazonais  
+- Impactos climáticos na produção  
+- Oportunidades de mercado  
+
+🔗 [Ver projeto no GitHub](https://github.com/Guilhermecst/Exportacoes-de-Vinho-EDA)
+
+---
+
+### 📉 Previsão do Fechamento do IBOVESPA (Machine Learning)  
+Modelo de **classificação binária** para prever se o índice fechará em alta ou baixa.  
+- Criação de variáveis derivadas (lags, médias móveis, variações)  
+- Testes com diferentes algoritmos  
+- Melhor resultado com **Regressão Logística**  
+- Pipeline automatizado para previsões diárias  
+
+🔗 [Ver projeto no GitHub](https://github.com/Guilhermecst/Fechamento-Ibovespa-ML)
+
+---
+
+### 🦠 Impactos da Pandemia de Covid-19  
+Análise de mais de **1,1 milhão de entrevistas** sobre impactos sociais, econômicos e comportamentais.  
+- Processamento com **AWS Glue**  
+- Visualizações e análises no **Power BI**  
+- Geração de insights e recomendações para políticas públicas  
+
+🔗 [Ver relatório](https://drive.google.com/file/d/1Os7e4xOleXQYh1Q-8fq10BZTwUNfgcOV/view)
+
+---
+
+## 🎓 Formação
+
+- 🎓 **Pós-graduação em Data Analytics** — FIAP *(em andamento)*  
+- 🎓 **Análise e Desenvolvimento de Sistemas** — Faculdade Impacta  
+
+---
+
+## 🌐 Onde me encontrar
+
+- 💼 LinkedIn: [linkedin.com/in/silva-guilherme-costa](https://linkedin.com/in/silva-guilherme-costa)  
+- 🐙 GitHub: [github.com/Guilhermecst](https://github.com/Guilhermecst)  
+- 📧 Email: **silva.guilhermecst@gmail.com**
+
+---
+
+⭐ Se algum projeto te ajudou ou chamou atenção, fique à vontade para deixar uma estrela!
