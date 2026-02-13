@@ -1,4 +1,4 @@
-# 💡 GUILHERME COSTA SILVA | DATA ANALYST
+# 💡 GUILHERME COSTA MURAOKA | DATA ANALYST
 
 > Analista de Dados focado em **extração de valor, otimização de performance e construção de modelos preditivos**. 
 > 
