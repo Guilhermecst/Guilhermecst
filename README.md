@@ -1,6 +1,6 @@
 # 💡 GUILHERME COSTA MURAOKA | DATA ANALYST
 
-> A Brazilian Data Analyst focused on **extracting value, optimizing performance, and building predictive models**. 🇧🇷
+> A Brazilian Data Analyst living in GA, USA and focused on **extracting value, optimizing performance, and building predictive models**. 🇧🇷
 >
 > **My mission: Raw data ➡️ Actionable insights ➡️ Business results.**
 
