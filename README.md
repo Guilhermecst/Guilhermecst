@@ -1,87 +1,87 @@
 # 💡 GUILHERME COSTA MURAOKA | DATA ANALYST
 
-> Analista de Dados focado em **extração de valor, otimização de performance e construção de modelos preditivos**. 
-> 
-> **Minha missão: Dados brutos ➡️ Insights acionáveis ➡️ Resultados de Negócio.**
+> Data Analyst focused on **extracting value, optimizing performance, and building predictive models**.
+>
+> **My mission: Raw data ➡️ Actionable insights ➡️ Business results.**
 
 ---
 
-## 🎯 Hard Skills em Destaque
+## 🎯 Featured Hard Skills
 
-Recrutador(a), aqui está o meu **Core Stack**. São as ferramentas que domino e que uso para entregar projetos de ponta a ponta:
+Recruiter, here's my **Core Stack**. These are the tools I master and use to deliver end-to-end projects:
 
-| Categoria | Proficiência |
+| Category | Proficiency |
 | :--- | :--- |
-| **Linguagens/Backend** | **Python** (Pandas, ML) · **SQL** (MySQL, Oracle, SQL Server) · **Shell Script** |
-| **Business Intelligence** | **Power BI** (DAX, Modelagem de Dados) |
+| **Languages/Backend** | **Python** (Pandas, ML) · **SQL** (MySQL, Oracle, SQL Server) · **Shell Script** |
+| **Business Intelligence** | **Power BI** (DAX, Data Modeling) |
 | **Big Data & Cloud** | **AWS** (S3, EC2, Glue) · **Databricks** / **PySpark** |
-| **Modelagem** | Machine Learning · Estatística · Engenharia de Features |
+| **Modeling** | Machine Learning · Statistics · Feature Engineering |
 
 ---
 
-## 🚀 Projetos que Transformam Dados em Valor
+## 🚀 Projects That Turn Data Into Value
 
-Aplicações práticas de Data Analytics em problemas de mercado e análise social.
+Practical Data Analytics applications for market problems and social analysis.
 
-### 🥇 NFL 2024: Otimização de Desempenho Ofensivo e Defensivo
-*Análise completa de performance da temporada regular, gerando métricas de eficiência tática.*
+### 🥇 NFL 2024: Offensive and Defensive Performance Optimization
+*Full regular season performance analysis, generating tactical efficiency metrics.*
 
-🛠️ **Tecnologias:** **Python** (Web Scraping, Pandas), **Power BI** (Dashboard Interativo).
+🛠️ **Technologies:** **Python** (Web Scraping, Pandas), **Power BI** (Interactive Dashboard).
 
-- Coleta automatizada de dados da NFL.
-- Desenvolvimento de métricas proprietárias para comparação de times.
-- Dashboard interativo para **tomada de decisão tática**.
+- Automated collection of NFL data.
+- Development of proprietary metrics for team comparison.
+- Interactive dashboard for **tactical decision-making**.
 
-🔗 **Visualize o Dashboard:** [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiNzIzNjg0ZGEtNmQ1YS00MmMzLTk5OTYtMTkyYjY0ZjY0ZWQ0IiwidCI6IjkwNGE2YjkzLTk1YjEtNDE0Yy1iNTgxLTEwZmIyOWRkYzRmNyJ9)
-
----
-
-### 📈 Previsão de Mercado: Modelo Preditivo para o IBOVESPA
-*Implementação de Machine Learning (Regressão Logística) para identificar tendências diárias de alta ou baixa.*
-
-🛠️ **Tecnologias:** **Python** (Pandas, Machine Learning).
-
-- Pipeline completo: Coleta, Limpeza e Engenharia de Features (Lags, Médias Móveis).
-- Modelo com melhor desempenho para previsão binária, rodando via scripts automatizados.
-
-🔗 **Veja o Código:** [Repositório GitHub](https://github.com/Guilhermecst/Fechamento-Ibovespa-ML)
+🔗 **View the Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNzIzNjg0ZGEtNmQ1YS00MmMzLTk5OTYtMTkyYjY0ZjY0ZWQ0IiwidCI6IjkwNGE2YjkzLTk1YjEtNDE0Yy1iNTgxLTEwZmIyOWRkYzRmNyJ9)
 
 ---
 
-### 🍇 Desvendando as Exportações de Vinho Brasileiro (EDA)
-*Análise Exploratória (EDA) aprofundada sobre a influência de fatores econômicos e climáticos.*
+### 📈 Market Forecasting: Predictive Model for the IBOVESPA
+*Machine Learning implementation (Logistic Regression) to identify daily upward or downward trends.*
 
-🛠️ **Tecnologias:** **Python** (Pandas, Visualização de Dados), Estatística.
+🛠️ **Technologies:** **Python** (Pandas, Machine Learning).
 
-- Identificação de padrões sazonais e principais países importadores.
-- Cruzamento de dados para gerar *insights* sobre **novas oportunidades de mercado**.
+- Full pipeline: Collection, Cleaning, and Feature Engineering (Lags, Moving Averages).
+- Best-performing model for binary prediction, running via automated scripts.
 
-🔗 **Veja o Código:** [Repositório GitHub](https://github.com/Guilhermecst/Exportacoes-de-Vinho-EDA)
-
----
-
-### 🌍 Análise de Big Data: Impactos Sociais e Econômicos da COVID-19
-*Processamento de +1,1 milhão de entrevistas para quantificar a vulnerabilidade social e as consequências da pandemia.*
-
-🛠️ **Tecnologias:** **AWS Glue** (ETL), **Power BI** (Relatório Gerencial).
-
-- Arquitetura para processamento de **Big Data**.
-- Geração de *insights* cruciais para políticas públicas e tomada de decisão estratégica.
-
-🔗 **Acesse o Relatório:** [Google Drive](https://drive.google.com/file/d/1Os7e4xOleXQh1Q-8fq10BZTwUNfgcOV/view)
+🔗 **See the Code:** [GitHub Repository](https://github.com/Guilhermecst/Fechamento-Ibovespa-ML)
 
 ---
 
-## 🔑 Diferenciais
-✔️ Foco em problemas de negócio e entrega de resultados.
-✔️ Proficiência em **SQL, Python, Power BI** e ambiente Cloud **(AWS/Databricks)**.
-✔️ Portfólio com projetos completos, do dado bruto ao *insight* final.
-✔️ Código limpo, organizado e pronto para reprodução.
+### 🍇 Uncovering Brazilian Wine Exports (EDA)
+*In-depth Exploratory Data Analysis (EDA) on the influence of economic and climate factors.*
+
+🛠️ **Technologies:** **Python** (Pandas, Data Visualization), Statistics.
+
+- Identification of seasonal patterns and key importing countries.
+- Data cross-referencing to generate insights on **new market opportunities**.
+
+🔗 **See the Code:** [GitHub Repository](https://github.com/Guilhermecst/Exportacoes-de-Vinho-EDA)
 
 ---
 
-## 🤝 Conecte-se comigo
-💼 **LinkedIn:** [silva-guilherme-costa](https://linkedin.com/in/silva-guilherme-costa)  
-📧 **Email:** silva.guilhermecst@gmail.com  
+### 🌍 Big Data Analysis: Social and Economic Impacts of COVID-19
+*Processing of over 1.1 million interviews to quantify social vulnerability and the pandemic's consequences.*
 
-⭐ *Se curtiu o meu trabalho, considere deixar uma estrela neste repositório!*
+🛠️ **Technologies:** **AWS Glue** (ETL), **Power BI** (Management Report).
+
+- Architecture for **Big Data** processing.
+- Generation of key insights for public policy and strategic decision-making.
+
+🔗 **Access the Report:** [Google Drive](https://drive.google.com/file/d/1Os7e4xOleXQh1Q-8fq10BZTwUNfgcOV/view)
+
+---
+
+## 🔑 Differentiators
+✔️ Focus on business problems and delivering results.
+✔️ Proficiency in **SQL, Python, Power BI** and Cloud environments **(AWS/Databricks)**.
+✔️ Portfolio with complete projects, from raw data to final insight.
+✔️ Clean, organized, and reproducible code.
+
+---
+
+## 🤝 Connect with me
+💼 **LinkedIn:** [silva-guilherme-costa](https://linkedin.com/in/silva-guilherme-costa)
+📧 **Email:** silva.guilhermecst@gmail.com
+
+⭐ *If you liked my work, consider giving this repository a star!*
