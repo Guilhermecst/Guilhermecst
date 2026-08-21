@@ -1,6 +1,6 @@
 # 💡 GUILHERME COSTA MURAOKA | DATA ANALYST
 
-> Data Analyst focused on **extracting value, optimizing performance, and building predictive models**.
+> A Brazilian Data Analyst focused on **extracting value, optimizing performance, and building predictive models**. 🇧🇷
 >
 > **My mission: Raw data ➡️ Actionable insights ➡️ Business results.**
 
